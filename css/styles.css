@@ -209,7 +209,7 @@ body{
 /*------------------------------------------------------ banner -------------------------------------------------------------*/
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(main/images/banner-3.jpg) no-repeat fixed;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../images/banner-3.jpg") no-repeat fixed;
     position: relative;
     background-position: center;
     background-size: cover;
